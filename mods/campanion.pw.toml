@@ -1,0 +1,13 @@
+name = "Campanion"
+filename = "Campanion-fabric-1.19.2-4.1.2+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce9ea9747a07a7fca748d78fa6be0f54042b3d76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4119826
+project-id = 373138

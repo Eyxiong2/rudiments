@@ -1,0 +1,13 @@
+name = "Icy Incitement"
+filename = "icy-incitement-1.1.4+1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "291a3946c925daed2a6bab5951e26e7aac6c6484"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3931409
+project-id = 561319

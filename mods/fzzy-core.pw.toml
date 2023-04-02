@@ -1,0 +1,13 @@
+name = "Fzzy Core"
+filename = "fzzy_core-0.1.2+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ced01ec11cb32b5ff71c9b038f93e348746abda6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4389532
+project-id = 821445
