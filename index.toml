@@ -141,6 +141,11 @@ hash = "a4e299fda1e3ebf5c3cf485a94d8f7e9488745364626d2072d493e46ef77afe3"
 metafile = true
 
 [[files]]
+file = "mods/endremastered-fabric.pw.toml"
+hash = "f7cc2ac98f6b26f8cb997c4709a72c8d98bb2d35b817a22d96da2eaabd0770df"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "34f801be60fc3f608a382e58ead8c03a7094eebe2c552515a437ef5ae8df949f"
 metafile = true
@@ -373,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle-fabric.pw.toml"
+hash = "4ad2590170dc0728e5fb35a68017c613f1a5a67d2b94b35430094b994b9a0fd9"
 metafile = true
 
 [[files]]
