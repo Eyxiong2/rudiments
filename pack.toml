@@ -1,12 +1,16 @@
 name = "Rudiments"
 author = "Eyxiong"
-version = "0.0.1"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "acbd2745261594586a975b6861e4487b8779d60ffcea391a0d758d564bd73b69"
+=======
+hash = "b026eb5bb1328bea699ff427fa1d0f469b04f30a88aac422a01ef3a11b1aecda"
+>>>>>>> progressive
 
 [versions]
 fabric = "0.14.17"
