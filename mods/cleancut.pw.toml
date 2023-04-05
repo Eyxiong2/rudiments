@@ -1,13 +1,13 @@
 name = "CleanCut"
-filename = "cleancut-1.19.3-5.2-fabric.jar"
+filename = "cleancut-1.19.2-5.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "52e09177961e50601b76f7aa8a42280c3a06597d"
+hash = "edc0902b86dc21459cd498355ca1f94a628be3d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4279350
+file-id = 3950652
 project-id = 392805
