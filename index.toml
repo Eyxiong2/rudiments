@@ -366,11 +366,6 @@ hash = "4008fadf6f3808ca80bbecf2622b13dc792a9e52381701141caf35e0940be3ca"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "98dacf43b37594d17c93c3de160a8cff6c108f816bfa2e79ee26a9e8240714a8"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
