@@ -1,0 +1,13 @@
+{
+  "unhallowedBaseLifespan": 2400,
+  "unhallowedBaseHealth": 20.0,
+  "unhallowedBaseDamage": 3.0,
+  "familiarBaseHealth": 20.0,
+  "familiarBaseDamage": 5.0,
+  "familiarBaseAttackSpeed": 1.0,
+  "crystalGolemSpellBaseLifespan": 5500,
+  "crystalGolemSpellPerLvlLifespan": 500,
+  "crystalGolemGuardianLifespan": 900,
+  "crystalGolemBaseHealth": 180.0,
+  "crystalGolemBaseDamage": 20.0
+}

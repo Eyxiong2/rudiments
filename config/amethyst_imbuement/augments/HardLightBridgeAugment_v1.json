@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:hard_light_bridge",
+  "enabled": true,
+  "cooldown": 5,
+  "manaCost": 1,
+  "minLvl": 5
+}

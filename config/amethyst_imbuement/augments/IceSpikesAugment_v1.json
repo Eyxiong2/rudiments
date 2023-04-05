@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:ice_spikes",
+  "enabled": true,
+  "cooldown": 32,
+  "manaCost": 14,
+  "minLvl": 8
+}

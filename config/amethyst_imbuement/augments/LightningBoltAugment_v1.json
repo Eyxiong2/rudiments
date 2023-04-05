@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:lightning_bolt",
+  "enabled": true,
+  "cooldown": 50,
+  "manaCost": 10,
+  "minLvl": 5
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:shine",
+  "enabled": true,
+  "cooldown": 5,
+  "manaCost": 2,
+  "minLvl": 1
+}

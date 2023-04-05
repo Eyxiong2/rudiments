@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:survey",
+  "enabled": true,
+  "cooldown": 1200,
+  "manaCost": 100,
+  "minLvl": 5
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:forcefield",
+  "enabled": true,
+  "cooldown": 600,
+  "manaCost": 60,
+  "minLvl": 8
+}

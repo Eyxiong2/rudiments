@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:soul_missile",
+  "enabled": true,
+  "cooldown": 16,
+  "manaCost": 3,
+  "minLvl": 1
+}

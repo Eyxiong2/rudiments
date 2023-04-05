@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:abundance",
+  "enabled": true,
+  "cooldown": 10,
+  "manaCost": 2,
+  "minLvl": 1
+}

@@ -1,0 +1,19 @@
+{
+  "enabledEnchantments": {
+    "heroic": true,
+    "wasting": true,
+    "deadly_shot": true,
+    "puncturing": true,
+    "insight": true,
+    "lifesteal": true,
+    "decayed": true,
+    "contaminated": true,
+    "cleaving": true,
+    "bulwark": true,
+    "multi_jump": true,
+    "night_vision": true,
+    "steadfast": true,
+    "rain_of_thorns": true,
+    "vein_miner": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:mend_equipment",
+  "enabled": true,
+  "cooldown": 14,
+  "manaCost": 3,
+  "minLvl": 1
+}

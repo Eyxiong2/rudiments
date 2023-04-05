@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:mass_exhaust",
+  "enabled": true,
+  "cooldown": 400,
+  "manaCost": 35,
+  "minLvl": 11
+}

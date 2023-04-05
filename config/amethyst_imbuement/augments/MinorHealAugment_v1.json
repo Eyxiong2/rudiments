@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:minor_heal",
+  "enabled": true,
+  "cooldown": 100,
+  "manaCost": 8,
+  "minLvl": 1
+}

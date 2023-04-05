@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:freezing",
+  "enabled": true,
+  "cooldown": 35,
+  "manaCost": 8,
+  "minLvl": 4
+}

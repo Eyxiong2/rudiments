@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:levitating_bullet",
+  "enabled": true,
+  "cooldown": 80,
+  "manaCost": 20,
+  "minLvl": 16
+}

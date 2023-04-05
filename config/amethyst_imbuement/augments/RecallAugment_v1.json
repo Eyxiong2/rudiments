@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:recall",
+  "enabled": true,
+  "cooldown": 12000,
+  "manaCost": 125,
+  "minLvl": 1
+}

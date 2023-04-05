@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:debug",
+  "enabled": true,
+  "cooldown": 1,
+  "manaCost": 1,
+  "minLvl": 1
+}

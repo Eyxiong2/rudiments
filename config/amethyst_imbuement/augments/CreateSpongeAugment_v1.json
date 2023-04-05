@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:create_sponge",
+  "enabled": true,
+  "cooldown": 30,
+  "manaCost": 8,
+  "minLvl": 1
+}

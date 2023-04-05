@@ -1,0 +1,32 @@
+{
+  "defaultColorMap": {
+    "minecraft:diamond_ore": "#1ED0D6",
+    "minecraft:deepslate_diamond_ore": "#1ED0D6",
+    "minecraft:coal_ore": "#2A2A2A",
+    "minecraft:deepslate_coal_ore": "#2A2A2A",
+    "minecraft:copper_ore": "#E0734D",
+    "minecraft:deepslate_copper_ore": "#E0734D",
+    "minecraft:emerald_ore": "#17DD62",
+    "minecraft:deepslate_emerald_ore": "#17DD62",
+    "minecraft:gold_ore": "#FCEE4E",
+    "minecraft:deepslate_gold_ore": "#FCEE4E",
+    "minecraft:iron_ore": "#D8AF93",
+    "minecraft:deepslate_iron_ore": "#D8AF93",
+    "minecraft:lapis_ore": "#1034BD",
+    "minecraft:deepslate_lapis_ore": "#1034BD",
+    "minecraft:redstone_ore": "#FF0000",
+    "minecraft:deepslate_redstone_ore": "#FF0000",
+    "minecraft:nether_gold_ore": "#FCEE4E",
+    "minecraft:nether_quartz_ore": "#FFFFFF",
+    "minecraft:amethyst_cluster": "#A678F1",
+    "minecraft:budding_amethyst": "#A678F1",
+    "minecraft:small_amethyst_bud": "#A678F1",
+    "minecraft:medium_amethyst_bud": "#A678F1",
+    "minecraft:large_amethyst_bud": "#A678F1"
+  },
+  "defaultRainbowList": [
+    "minecraft:ancient_debris"
+  ],
+  "modColorMap": {},
+  "modRainbowList": []
+}

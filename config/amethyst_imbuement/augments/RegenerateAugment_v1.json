@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:regenerate",
+  "enabled": true,
+  "cooldown": 800,
+  "manaCost": 24,
+  "minLvl": 1
+}

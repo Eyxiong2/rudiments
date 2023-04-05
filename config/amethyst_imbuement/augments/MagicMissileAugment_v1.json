@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:magic_missile",
+  "enabled": true,
+  "cooldown": 15,
+  "manaCost": 1,
+  "minLvl": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:dash",
+  "enabled": true,
+  "cooldown": 32,
+  "manaCost": 10,
+  "minLvl": 4
+}

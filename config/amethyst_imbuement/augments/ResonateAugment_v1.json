@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:resonate",
+  "enabled": true,
+  "cooldown": 18,
+  "manaCost": 18,
+  "minLvl": 18
+}

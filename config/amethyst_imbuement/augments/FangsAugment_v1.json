@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:fangs",
+  "enabled": true,
+  "cooldown": 34,
+  "manaCost": 10,
+  "minLvl": 8
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:gusting",
+  "enabled": true,
+  "cooldown": 60,
+  "manaCost": 15,
+  "minLvl": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:bedazzle",
+  "enabled": true,
+  "cooldown": 1500,
+  "manaCost": 65,
+  "minLvl": 5
+}

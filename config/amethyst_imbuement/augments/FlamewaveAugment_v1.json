@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:flamewave",
+  "enabled": true,
+  "cooldown": 2,
+  "manaCost": 3,
+  "minLvl": 16
+}

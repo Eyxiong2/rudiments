@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:flamebolt",
+  "enabled": true,
+  "cooldown": 19,
+  "manaCost": 4,
+  "minLvl": 1
+}

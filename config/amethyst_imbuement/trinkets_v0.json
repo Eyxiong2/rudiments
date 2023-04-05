@@ -1,0 +1,33 @@
+{
+  "enabledAugments": {
+    "angelic": true,
+    "crystalline": true,
+    "draconic_vision": true,
+    "escape": true,
+    "feline": true,
+    "friendly": true,
+    "guardian": true,
+    "hasting": true,
+    "headhunter": true,
+    "healthy": true,
+    "illuminating": true,
+    "immunity": true,
+    "invisibility": true,
+    "leaping": true,
+    "lightfooted": true,
+    "lucky": true,
+    "moonlit": true,
+    "resilience": true,
+    "shielding": true,
+    "slimy": true,
+    "soulbinding": true,
+    "soul_of_the_conduit": true,
+    "spectral_vision": true,
+    "spiked": true,
+    "strength": true,
+    "striding": true,
+    "suntouched": true,
+    "swiftness": true,
+    "undying": true
+  }
+}

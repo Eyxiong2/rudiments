@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:mass_fortify",
+  "enabled": true,
+  "cooldown": 1200,
+  "manaCost": 60,
+  "minLvl": 16
+}

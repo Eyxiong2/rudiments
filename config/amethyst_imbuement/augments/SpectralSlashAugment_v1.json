@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:spectral_slash",
+  "enabled": true,
+  "cooldown": 16,
+  "manaCost": 4,
+  "minLvl": 8
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:fang_barrage",
+  "enabled": true,
+  "cooldown": 100,
+  "manaCost": 40,
+  "minLvl": 22
+}

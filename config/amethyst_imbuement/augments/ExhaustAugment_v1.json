@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:exhaust",
+  "enabled": true,
+  "cooldown": 360,
+  "manaCost": 16,
+  "minLvl": 7
+}

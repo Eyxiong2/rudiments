@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:mass_revivify",
+  "enabled": true,
+  "cooldown": 300,
+  "manaCost": 100,
+  "minLvl": 22
+}

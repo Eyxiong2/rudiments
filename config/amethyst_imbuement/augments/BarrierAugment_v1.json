@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:barrier",
+  "enabled": true,
+  "cooldown": 600,
+  "manaCost": 35,
+  "minLvl": 1
+}

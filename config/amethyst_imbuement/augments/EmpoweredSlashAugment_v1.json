@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:empowered_slash",
+  "enabled": true,
+  "cooldown": 18,
+  "manaCost": 15,
+  "minLvl": 13
+}

@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:lightning_storm",
+  "enabled": true,
+  "cooldown": 400,
+  "manaCost": 50,
+  "minLvl": 20
+}

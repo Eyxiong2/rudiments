@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:summon_strider",
+  "enabled": true,
+  "cooldown": 1200,
+  "manaCost": 10,
+  "minLvl": 1
+}

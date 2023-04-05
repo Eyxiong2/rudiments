@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:create_lava",
+  "enabled": true,
+  "cooldown": 200,
+  "manaCost": 20,
+  "minLvl": 1
+}

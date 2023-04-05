@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:summon_grace_totem",
+  "enabled": true,
+  "cooldown": 2400,
+  "manaCost": 100,
+  "minLvl": 16
+}

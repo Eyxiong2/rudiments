@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:teleport",
+  "enabled": true,
+  "cooldown": 200,
+  "manaCost": 15,
+  "minLvl": 7
+}

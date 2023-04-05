@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:zap",
+  "enabled": true,
+  "cooldown": 18,
+  "manaCost": 6,
+  "minLvl": 1
+}

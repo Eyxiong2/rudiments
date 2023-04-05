@@ -1,0 +1,7 @@
+{
+  "id": "amethyst_imbuement:summon_boat",
+  "enabled": true,
+  "cooldown": 1200,
+  "manaCost": 25,
+  "minLvl": 1
+}

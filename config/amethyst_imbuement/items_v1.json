@@ -1,0 +1,12 @@
+{
+  "giveGlisteringTome": true,
+  "totemOfAmethystDurability": 360,
+  "opalineDurability": 250,
+  "iridescentDurability": 550,
+  "lustrousDurability": 1450,
+  "baseRegenRateTicks": 150,
+  "bladesDurability": 500,
+  "bladesDamage": 5.0,
+  "lethalityDurability": 1250,
+  "lethalityDamage": 8.0
+}
