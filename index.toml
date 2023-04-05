@@ -11,6 +11,16 @@ hash = "5fc59d87934881adda8a97493f9eb7e778d05728eeadf0da3d82d7104b1b912a"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-core.pw.toml"
+hash = "0c71118db58b10d9f47b99eb92ef1dddcb6273ee4fcd47ae7984aae668ea3728"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "2851705457ee087e789b5c5363ce35abb542e135713a343b073933125efdb7f4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "461d17c78708dbf58c4251a0d43c88e2fbecb90734afbb6816a03ef59d622c5c"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cda4350b7e677d38c24b13777078d0cc55c6999ee22faad4cc9530781247d7cd"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
 
 [[files]]
@@ -414,15 +429,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
-
-[[files]]
-file = "notes/core-mods.txt"
-hash = "460f9fdaba705cd15f865cd144bec5154c1f4f83c81bde1e1eb9d534d6c3c5d4"
-
-[[files]]
-file = "notes/modlist.txt"
-hash = "af19e0f7889ff910ec1eaf5e33c0e085dfd5b3b2a6162cef6c775b752b1f1a1c"
-
-[[files]]
-file = "notes/notes.md"
-hash = "747449062f39c548a79471819f56d4de403986a3cf56c8e7567586d43137b37f"
