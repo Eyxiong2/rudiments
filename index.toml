@@ -1,6 +1,734 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/Revelationary.json"
+hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
+
+[[files]]
+file = "config/Spectrum.json5"
+hash = "596b10ce67f3475af202f2a5a4c51c6f4a6fbbdb134e82e61254a16e6dde5ad1"
+
+[[files]]
+file = "config/amethyst_imbuement/README.txt"
+hash = "5a4c28fb357268f21c7eb0e2cf77900faebc2228c32f72799c812d657067689b"
+
+[[files]]
+file = "config/amethyst_imbuement/altars_v3.json"
+hash = "f419efecee613784a7a2895c123bb38b94245c539b60717989e40a9ab131e628"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/AbundanceAugment_v1.json"
+hash = "66feb2b0a3c1849dae46f50d130ff7d5c95df9bbd82047ad6ff4f0ef93e4253e"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/BarrierAugment_v1.json"
+hash = "21f8e4f2c19c0f368bf41016c380adc4147d8936fd70e3f23b4cd285401d765a"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/BedazzleAugment_v1.json"
+hash = "0b02fbbc39aa125b575be03b0f307ecc9c23c2b802b075743388c8d12740e68b"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/CleanseAugment_v1.json"
+hash = "b4eec483e6f068c8a743a0d76d2393050421086cb43a370e1e7965d0c3a35167"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/CometStormAugment_v1.json"
+hash = "9192da8aa399f77ed9e59eb5788bbe58f9d7b754d7bafc5aceb6d89197e243aa"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/CreateLavaAugment_v1.json"
+hash = "fa3a9b82e4aabd98995cc58d70e39e3badb20ca0542a6bbd0ac204284c038373"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/CreateSpongeAugment_v1.json"
+hash = "5fbb325ba1e701d818bbe94ea991d76bd04b397138982b775181562eec3b1a7c"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/CreateWaterAugment_v1.json"
+hash = "cfad8c7eb041983a919f29db32dbbfd2ce8ac51e98c8b26b80c86aba183d76a1"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/DashAugment_v1.json"
+hash = "11c422d93a7ef32408588f97c359af55f1708503c9615902952cfe5ef6f3298a"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/DebugAugment_v1.json"
+hash = "cd47ca3bea07e23c0942b81cbc4b852d21408ad7dc2ea6ac0dab9ae6ff5d5adc"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/EmpoweredSlashAugment_v1.json"
+hash = "bdea418f54b9afd01a12eccebbebc1c77c6d957337b3068c05174f7f399c9904"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/ExhaustAugment_v1.json"
+hash = "89ce3aaf0ffbef2bf8b148186e10a6698a9d6c252ca86e03497401bc6d426db5"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FangBarrageAugment_v1.json"
+hash = "f2e4c40b2e55f2eec5d1bc355c78256ef0912266415ff3aa7360235281a3e38f"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FangsAugment_v1.json"
+hash = "89f177464b1a86bb926d8509d30759faa81d413b51baf41cafb16254697b4d6d"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FireballAugment_v1.json"
+hash = "bf845b31a77793a7ae6840fb25042dd57648a7f5dabcd0da45860933ad892f38"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FlameboltAugment_v1.json"
+hash = "8e2c0cfcb9b0742e508e50aada308aed9f166c4804ba61bfa213df16c1aa6212"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FlamewaveAugment_v1.json"
+hash = "761960c9e759f7fffa4f615ae996a4ee714d895ab70cfd55bd5b5f228ce86568"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/ForcefieldAugment_v1.json"
+hash = "7fb8094a770cbdc176ddc88b118182ae7cbbeba120d532247bfd7ef4345e4966"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FortifyAugment_v1.json"
+hash = "37eac676db2b0c02c56f0d4cb53c947ac5eac0f89cc413e3079a615b0dacb890"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/FreezingAugment_v1.json"
+hash = "bdfd51f521ca754e4c8f7979a71cae61508e4c2ef026466e90a9e3c509952602"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/GustingAugment_v1.json"
+hash = "2cde42dc8c6203625a7554899b27269bcfd4e163049cd57c2497b5252d8b5e0d"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/HardLightBridgeAugment_v1.json"
+hash = "00da2a84ed121e013bde52927b2ef85e731ff1a2df4ec7d07dc50f3476470870"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/IceSpikesAugment_v1.json"
+hash = "7d349b23a5b4f825f30cec4e6d42d1599f83490180e854bc8e1eaf4773fb66a3"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/InspiringSongAugment_v1.json"
+hash = "b626c57094d0807c753c72996cfb8c1837e185c57ea9c4e2a46c53b5c4228db4"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/LevitatingBulletAugment_v1.json"
+hash = "c4c50d20c5a33faddc1f081af710fb7508a10a848ab8084ee4a8fffdf072ff7e"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/LightningBoltAugment_v1.json"
+hash = "895804fd6e70a11a1446e45f5add127c9684213511879efc37db3e33c8ca3716"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/LightningStormAugment_v1.json"
+hash = "0ab6686360b8f7be69c5b7e339074212ee540a96c7852097ffd4de9ee4974018"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MagicMissileAugment_v1.json"
+hash = "805c077c3b4b63b422b12fbfe7db5c04776331b061d1470d61f0b357a69fee3e"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MassCleanseAugment_v1.json"
+hash = "8303283019369095ed03dccaa5eb7a8c9554b3c7452c9fab124f34c8121e2a76"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MassExhaustAugment_v1.json"
+hash = "50a5ab052f407fe1c85f15ef2a98fe00d7358e4e47ac28ea43722587ee3cf6e2"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MassFortifyAugment_v1.json"
+hash = "f662a104e83ad294e13e2e22c4a61e7e1b97f91b131b5fb6fd5f8030cc4377ac"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MassHealAugment_v1.json"
+hash = "6f7841e3a21376c1c9202d15d68318f8bf9000205b1154d4fe9feaaffa2507c1"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MassRevivifyAugment_v1.json"
+hash = "d14a179f44f53cc364826e93d94e8664147e4308c9548e4419874643de047b76"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MendEquipmentAugment_v1.json"
+hash = "46728c1df77ff86152770f934656f615ecc190869bd5992b2a7c96f85798862a"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/MinorHealAugment_v1.json"
+hash = "21d85cd7d3343668c546cc58e09533b2217459f05937e4e836cbec603131ff0d"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/RecallAugment_v1.json"
+hash = "ae94e5e7db7c818386170fc7265bca2276dbf6fb150d41fc415cc1b6c140eb70"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/RegenerateAugment_v1.json"
+hash = "f0ff2c1421777e7112910fbdb6a72dc5f62a6a8c6c9e68adcd70b35676a80901"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/ResonateAugment_v1.json"
+hash = "2a320ec4cb5a43f9e9af879e6f162b736d58e99a0825a992b1b12373d68d4bd2"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/ShineAugment_v1.json"
+hash = "5a0c899471b3f9d2e80b605e2e5ae81c3dffda0cadb1e0deec05924962fd0206"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SmitingBlowAugment_v1.json"
+hash = "b90a67bb413dc744007106d85ce17669808560df18878cba1f9c6c9948fb838c"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SoulMissileAugment_v1.json"
+hash = "115c691b6416ed6661744f74d4940b0570e62973fc98eb793c4692f7802ed9a5"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SpectralSlashAugment_v1.json"
+hash = "159aa5b1126af19b77ba2218c284980192553f32414ac390a1cd92ed23747c5d"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonBoatAugment_v1.json"
+hash = "d570a52507a3979808d8cbb82f3321aa5567bdbf81df85189c570e480d85edba"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonChickenAugment_v1.json"
+hash = "f81e3d821f481bbae86ac767082880c8d4d595d74d8bc21deb0747930153fd97"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonFuryTotemAugment_v1.json"
+hash = "dd4acb37ca3657bbbbb1064f983014e7d9fb32fe82fa315b63274ab8fa544556"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonGolemAugment_v1.json"
+hash = "23e5f4ab2919fce3da4fe33ebcf66232f51d42c88c68b0096f8b3c05819ac1b9"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonGraceTotemAugment_v1.json"
+hash = "41917bcd2429373d1f08397fafb0dc212cb7cb0cdee52193e763323c3ec36ff1"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonStriderAugment_v1.json"
+hash = "a8f4644085ad6c9c38b223627a50f7ecc0596b574592b49c92cfa7a31931a927"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonWitTotemAugment_v1.json"
+hash = "59d20e21aa219235bc474040d6a6e736d6669b9f8248834d8514c96f339c77d4"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SummonZombieAugment_v1.json"
+hash = "c242ddab76461c35b4095bb8d0732fa9a50313264d43c0b9831e840fd9d42818"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/SurveyAugment_v1.json"
+hash = "3ff53e6318db8a89a2b4e2ec31a6ff114f9812611c00ca880c7c7b3b70ff2303"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/TeleportAugment_v1.json"
+hash = "8f1d1e42d86c3f61389c73b7e0c95a860e79fc33864152ebd39ac7b3ac4a1221"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/WitheringBoltAugment_v1.json"
+hash = "7f77585a5a20816b158ac047bdbf2ab5a46cd183fa34c2ed8a41d3e6bee27384"
+
+[[files]]
+file = "config/amethyst_imbuement/augments/ZapAugment_v1.json"
+hash = "62c836dcfc1434c86c65f57a0674ba1057299aac2da23fdf44c4519bdadf21ac"
+
+[[files]]
+file = "config/amethyst_imbuement/colors_v1.json"
+hash = "46ebc7846b51a5c002f7957861200ab058e2c8dede3eb8ae7d7e487431d0d0cb"
+
+[[files]]
+file = "config/amethyst_imbuement/enchantments_v0.json"
+hash = "da5166cc1fc897ea75acc61980631675c9d68715f3df2d0ddaecdf79d3ea0d81"
+
+[[files]]
+file = "config/amethyst_imbuement/entities_v0.json"
+hash = "1d3cdeb3496fa9eba6a272732bf52fb34705adea61fb3d8dac9b83ef8cec833f"
+
+[[files]]
+file = "config/amethyst_imbuement/items_v1.json"
+hash = "49f35cb4b4feecc26cc4a9e2f0c92b7ceb39fe666a7ff18cd5e06d652fd842c3"
+
+[[files]]
+file = "config/amethyst_imbuement/trinkets_v0.json"
+hash = "1830872b5db1b7b9c7f17a0165d4b93a2561450657845d2b0c8dd12491480c9a"
+
+[[files]]
+file = "config/amethyst_imbuement/villages_v1.json"
+hash = "ece9357c59542182dd4aebe96f8fa8728e74fba9af0a7ed4693714d07a0f5e09"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "fb0f6d6e2f4e0bb23ed45b33cf959e0df4f1747040e7ce964aeac9131d9da337"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
+hash = "75fcd04fe6f7a51c903749b39a6dcdb4b54f891416b9c465187428f345a9c42d"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "30c511249012accb25fef9ee32d4a9fa7dfc9ce2c53e4384f9f7ff9c72a1278b"
+
+[[files]]
+file = "config/bosses_of_mass_destruction.json5"
+hash = "a246a1c2f9e576e459fe0ba21d2a92c8c1e6347cdd7965400b542f6ebbf2ad0c"
+
+[[files]]
+file = "config/botania-client.json5"
+hash = "3af2bcf73d631d6f0ce4486193d75a57f7843c7e6bf03c53397e36e6d0789ee8"
+
+[[files]]
+file = "config/botania-common.json5"
+hash = "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544"
+
+[[files]]
+file = "config/bwncr.toml"
+hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
+
+[[files]]
+file = "config/byg/README.txt"
+hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
+
+[[files]]
+file = "config/byg/backups/last_working_configs_backup.zip"
+hash = "8e1d34ca4107fd5d3444f55f7acc9f97623040c43b2c743ab494cee6f1032162"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "59d8aaa08065c8c7fb737ad292932f38a890050028faf27f29d422016901cb5e"
+
+[[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "fe34189905301fc2821a96e626544c1fdfb2da66fda123d7f38886b088c78f97"
+
+[[files]]
+file = "config/byg/config_versions.json5"
+hash = "932b026a6dc19aa38289f2e2b93b17c65b4187db5f540a4fe7e960f3ce2ced41"
+
+[[files]]
+file = "config/byg/end-biomes.json5"
+hash = "08f3326b9f2b62917a215b8030a3d4abff0fbe584c73f9e863c0cc988c01a380"
+
+[[files]]
+file = "config/byg/growing-patterns.json5"
+hash = "09893da43806cfefa3618f8ddfa775c5af10ef00c5fdd74a59b27a822918f6f8"
+
+[[files]]
+file = "config/byg/nether-biomes.json5"
+hash = "5b50466ac66670989c91df4ad26553cb3a1bb6a513f1d4e871493f550935b3ae"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
+hash = "0e53d280eb90fb3c42f66b0ce58d4e08e638a51d676671ee5588846da14f70b8"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
+hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
+hash = "083c74dfff5f8541d50e6e6f94fd627e3ecc88c75c016119013039f64b6c0601"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
+hash = "c987a91a518e17b95214fb7a6b7123e0dbd03733f4d4263b7089d6b0954d3d15"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
+hash = "e6e5f4814231e5b973bcb84dba877bb2d5055135ef6d1d981897b0a0fcf2f241"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
+hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
+hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
+hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
+hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
+hash = "fede3df921646e66623ca524260c7ec659797af3256b601cc2d59b2b72056d0c"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
+hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
+hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
+hash = "a7f8583a1fdb161bd6a5695fae701b68404297f4b84d488a28a6071a170cbad0"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
+hash = "e8cd56ddcdab180fa46a01f7b03dd03470b4880260dfcb1fe9f33b6d94d9edec"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
+hash = "9241e6a649b4c0fc90723ac686498d2d4826d81c2e68068379190130d3c69404"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
+hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
+hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
+hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
+hash = "64c5aedfd14d6b7a1e33a5c46b42d074c03fb2d45d7a100365f90d22ce7c781b"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
+hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
+hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
+
+[[files]]
+file = "config/byg/overworld/byg-overworld-biomes.json5"
+hash = "f9e21375533daec1d9c891312f0e62d5cb7b0bbd03c818c10b75c4b858117af8"
+
+[[files]]
+file = "config/byg/overworld/regions/rare_region_1.json5"
+hash = "179a4d61cf995a0d2f54a2ccd09774eb33b84080fe3ec66b154d2694016b8a29"
+
+[[files]]
+file = "config/byg/overworld/regions/region_1.json5"
+hash = "f3fdb1f8ebe3959e1a73d7bd9e5d5fca5313a8b5110b6482309374d622a12a22"
+
+[[files]]
+file = "config/byg/overworld/regions/region_2.json5"
+hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
+
+[[files]]
+file = "config/byg/overworld/regions/region_3.json5"
+hash = "8fcadaf16f568fcddfc127cf91f429ad100f07283b7f149e291e1228355580d5"
+
+[[files]]
+file = "config/byg/settings.json5"
+hash = "69315b2ed07954afc0c887a4b1059bc4b652f36e333ac4e859f7ce35c8270760"
+
+[[files]]
+file = "config/byg/surface_rules/end_surface_rules.json5"
+hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
+
+[[files]]
+file = "config/byg/surface_rules/nether_surface_rules.json5"
+hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
+
+[[files]]
+file = "config/byg/surface_rules/overworld_surface_rules.json5"
+hash = "ad62e7fd9c116d1ebe22aa808e4b7b88a1355e0d374ecfc3e2c9a1bea0124a20"
+
+[[files]]
+file = "config/byg/trades.json5"
+hash = "67b0fc03004b314f31d1f2e7d34a985008a00c445b67554753b438ef472a381e"
+
+[[files]]
+file = "config/campanion.json"
+hash = "e2b066077a420557365e22ab5c9ce0f9e9dad2dc99ab3303021119fcc9bf73b4"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/charm.toml"
+hash = "35ca32cddb635c5663b366af060214685f3535cccaa837030cc9c22a4f257fd0"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "a5eb2e7c372c0a03bf96a3455e381ba61ab852f2b79122cdde0326d93a694f04"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "9e160add67830ba94c1683e1da28c8b9a6c63b33087c093e27c329f2ef853a40"
+
+[[files]]
+file = "config/dragonfight.json"
+hash = "a823f421836c3a5b38a12f84dbb09b97cc890e43abe61c5993c41e45159008cd"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
+file = "config/eldritch_mobs.json5"
+hash = "af33568596fb06e2ab488902a390ccc5ba6ddc5b5a253b78d667d383465e4570"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+
+[[files]]
+file = "config/endrem.json"
+hash = "3153ec68ee14040f12ee784f79eba6e94c69d0672f5f5dc9d606013990ad778c"
+
+[[files]]
+file = "config/explorerscompass.json"
+hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "9bd472b83ec498c8cebb1731598ffa39a338033808dab73e87495358602523b3"
+
+[[files]]
+file = "config/farmersdelight.json"
+hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/fzzy_core/README.txt"
+hash = "a0f3193f6f226f143aa7bc2c18afffc7035cf868a97713f46027c4a85a004960"
+
+[[files]]
+file = "config/fzzy_core/flavors_v0.json"
+hash = "4948d372bd930552682c4a975e972bb1e876a19fb87e2a3fbdb466887a9aa9a6"
+
+[[files]]
+file = "config/healthoverlay.json5"
+hash = "9d60721aa76f0974fcb6a8bf73b074ece68efd89fd9be03856659049053c1f7e"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "d56c8b853db1a47b6fbee998f302d25ae4d42dabfc619af3ff418d27055ce02b"
+
+[[files]]
+file = "config/indrev/cables.json"
+hash = "9183a2eadef32624ee9a8ed193ac1b61d3b2ce0511f6e0c182f3a2d9bb170a83"
+
+[[files]]
+file = "config/indrev/generators.json"
+hash = "7e76e3fd7ff40190b24aa76efdea7afc315a87e426ac8d7ce0e0f42a1f4e52c6"
+
+[[files]]
+file = "config/indrev/hud.json"
+hash = "273c14e99b9b938007693c86b53cd7d697080b38705b1962cfe38104656bcf2d"
+
+[[files]]
+file = "config/indrev/machines.json"
+hash = "6fbf00f4491111f1be29b4a6dbe172aa90df35cadd5d5ce2cf350bd10e11cbe7"
+
+[[files]]
+file = "config/indrev/mining_rig_config.json"
+hash = "c9a0a12c14e6d0b9c88d9ed8aa5586ee41435408d814dbf081ae207484b1dc5b"
+
+[[files]]
+file = "config/indrev/oregen.json"
+hash = "24967e348a997f897f49757afec9ccdb4c0ae972af80e7cb20ad8a6719eed9ac"
+
+[[files]]
+file = "config/indrev/upgrades.json"
+hash = "ebbb00fcd5f6a560a60c43c86b71a49a035f154799b6135c1627f14d5f5f72b5"
+
+[[files]]
+file = "config/kleeslabs.toml"
+hash = "dd358415bf67fa2d9040ca89833068ef3d512e86727a67b613193e27b6a524c2"
+
+[[files]]
+file = "config/labels-client.json"
+hash = "8a7783972031b3f984ae341f497966fbe0689548fa7e09452fde5de741b1fad7"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/magna.json"
+hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "76821cc31b5546a570487d6037f31776fe537683fbe5b8da9e92efd54ffdf8ed"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+
+[[files]]
+file = "config/noindium.json"
+hash = "ed093ed833011b0f97e7b6d5054def07d6d76e67e9f0ae696a4471d77abee112"
+
+[[files]]
+file = "config/pal.properties"
+hash = "8609c047e10c9584b29182b089741d20f575fe1f16ea9598d73c86e87f30114d"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "d0e0ff01a8fad9fb04205b2757d0e4312c16b8cd0a58a8d8c0d2bffc1e7bc979"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "b2626d2957638cc07bb3086e5f6e7ec2d3310a925fbd3adb2ff60baae01ce97f"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "33657d32c61a07457abf1f011c461355993cd90a89ee2ac16d57d3396f596183"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "a67f86e8c372a35c000728bf11f7d897ba21f04f8b194c22ebebadf640a7b819"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "c6712cbed3e4565440152a16c0e05862fee105629572563d03bf0dd2bc0c798a"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "b3dc4e53a50b7f5302b190eb9290de34000cc89a1998f4e0f7ed6dfc3ecc1f9b"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "9b02df118ca06219d27928e213226a983e8c2506f911fa0baa4c743004f9c547"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "729bc7b488e815c9dd1111c5a76caad521a6dbdf6e2720dd5d4fdb980420623a"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "e36d605b4898d1c845bf2d95809c49324d8f28cc5b9d03c7825b942b2723cdbe"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "fab7333e946cdeae15c32e4c6cd1cdba35b2e811637a43cf3a8932e3f2366095"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "c7023a47de665d5e875a2c3e73df06a416f3f24dea24be70ed7cd47f5e97779f"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
+
+[[files]]
+file = "config/twilightforest-client.toml"
+hash = "47b2f3bd2a2a306ee4d83775f48e72713fb9505fdb98fb252c56f4889d576686"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "9b5ac9351d6ec7bf7032eaebd86e3ccb6b3e05d2c27d6ba52bb02244101a8745"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "19e2bf36ed39d0f992cc05a9c146f7f2ac43d03326460073c98a7e462db0466b"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "bb74bd962c8f8bb3635324b77573016a052144bde3f1f94b4df8e25dc011c77b"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "391551d6952996805edb64d2b54840f18427168ae9eb39cd30c34b8d18c62fc0"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "41cbffae98ca14d66f8d9cc6f8cc50dd89c25e6fd1d3d3a92e268c08cd1d4cf3"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "5a584bddc06837b5d7c63c0bf51e672662f6742cffe3fe44e314cb393048c868"
+
+[[files]]
+file = "config/voidtotem.toml"
+hash = "fff61f6d96a211539afdb685332f5907e98888344a866316b0abf3a69c03772c"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/megane_modules.json"
+hash = "8c86b6eb36f0e553619cb8cc0a87f877e395feb3375eac15c67a5dd943c84e80"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "9c4d2b0fad125edaddb0aed8c6685eba01f324f12ed475de50adda2f9862a684"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "5f3008e1ad26f530252137a4927d4807dfaa2510cf64d15ee8f51400559e7258"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b9d43d5ed649294510881ed79aebadc436eb390eff6ee1ea8fb9d82ef763b5ba"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "e8713db639fcab5eac87fdf737d216badc0739e178886fab6bd593747b87d08c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "00ad3e5e4e6d2ca0b6f8af3447933b309eae13447cea04694e0356afc7839733"
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
 metafile = true
