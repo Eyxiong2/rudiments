@@ -934,6 +934,11 @@ hash = "dde391462b40dcf214bcd433fd69bb680792d08a3ecbe4f35f79017cdefbea1a"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "b74024263562cb534499952b3d83dbdc229e9adf655315d941f5a1e4c5951c85"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
@@ -999,6 +1004,11 @@ hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
 metafile = true
@@ -1021,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
 metafile = true
 
 [[files]]
@@ -1051,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "03dfb8f20c347a6fb3205f1620f9015a2012bea955109a70d4c131b95195c329"
 metafile = true
 
 [[files]]
@@ -1116,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
 metafile = true
 
 [[files]]
