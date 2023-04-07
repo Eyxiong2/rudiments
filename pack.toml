@@ -1,6 +1,6 @@
 name = "Rudiments"
 author = "Eyxiong"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "ff4e3e930bfc2ea23ad1dea501c2194dc5d621584a4c297147537ec448ff1ff6"
 
 [versions]
-fabric = "0.14.17"
+fabric = "0.14.19"
 minecraft = "1.19.2"
 
 [options]
