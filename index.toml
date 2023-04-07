@@ -1024,11 +1024,6 @@ hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
 metafile = true
