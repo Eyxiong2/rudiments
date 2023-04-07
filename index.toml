@@ -1000,6 +1000,11 @@ hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
 
 [[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "716dd3f06d443acae1bd44639dbe1b3605459778e1290625f4d38eeb1aa972a5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
 metafile = true
