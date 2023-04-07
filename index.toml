@@ -1069,11 +1069,6 @@ hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "03dfb8f20c347a6fb3205f1620f9015a2012bea955109a70d4c131b95195c329"
-metafile = true
-
-[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "bf29eaffe26bcf9b4f5783cbc0d351f94194a72fcb6743b42b7730d0df9f41e0"
 metafile = true
@@ -1136,11 +1131,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
 metafile = true
 
 [[files]]
