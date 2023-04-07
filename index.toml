@@ -1149,11 +1149,6 @@ hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
 metafile = true
 
 [[files]]
-file = "mods/the-lost-castle-fabric.pw.toml"
-hash = "4ad2590170dc0728e5fb35a68017c613f1a5a67d2b94b35430094b994b9a0fd9"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "1dfbe2c85dfbc214cc7982893afa96850bcddf43b537b24f7067a05227abc092"
 metafile = true
