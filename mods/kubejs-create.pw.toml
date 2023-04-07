@@ -1,0 +1,13 @@
+name = "KubeJS Create"
+filename = "kubejs-create-fabric-1902.1.1-build.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "319e0b3e47036ed5ee12d1b240692b5989d331e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4454538
+project-id = 429371

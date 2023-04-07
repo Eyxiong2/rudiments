@@ -954,6 +954,21 @@ hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-botania.pw.toml"
+hash = "8ea12e8ef4e97799c6298af1a9084fd86ce89b3fdc15b1e32a20c04c692ccd74"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "c051ec4ff1ce1c0f513d8b9a3231ac3b2dad6aa28bea8ac6e451dcdf42caf2cf"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eac5e11f4f5d18cc618aa6452690d3aba7ed95accd4b830190d01946d99aeb2f"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "399dd43e5177971f4bd1f201d18ab0ef6b554ae89ac96fc252b8b8d67978cd64"
 metafile = true
@@ -1046,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "bf29eaffe26bcf9b4f5783cbc0d351f94194a72fcb6743b42b7730d0df9f41e0"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "b76e86b5fe8996ee5fdfb543c14a77928c82b1761e3d8570a82c3013ec1036b4"
 metafile = true
 
 [[files]]
