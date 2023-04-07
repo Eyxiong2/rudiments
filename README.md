@@ -4,7 +4,7 @@ A minecraft modpack.
 
 ## Notes
 
-The modpack uses Fabric for Minecraft version 1.19.2, and loader version 0.14.17.
+The modpack uses Fabric for Minecraft version 1.19.2, and loader version 0.14.19.
 
 The biggest "content" mods in the pack are:
 - Amethyst Imbuement
