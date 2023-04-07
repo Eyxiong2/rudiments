@@ -929,11 +929,6 @@ hash = "a2190508aaa2c3a1408f354a6d6eaf238799433da3efeda74e9703057c4e713d"
 metafile = true
 
 [[files]]
-file = "mods/icy-incitement.pw.toml"
-hash = "dde391462b40dcf214bcd433fd69bb680792d08a3ecbe4f35f79017cdefbea1a"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "b74024263562cb534499952b3d83dbdc229e9adf655315d941f5a1e4c5951c85"
 metafile = true
