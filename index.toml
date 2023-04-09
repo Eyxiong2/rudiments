@@ -414,7 +414,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "35ca32cddb635c5663b366af060214685f3535cccaa837030cc9c22a4f257fd0"
+hash = "0b046fd777de40ab3be69584e804357f7c7350f20d1f9316f48980106df7644c"
 
 [[files]]
 file = "config/create-client.toml"
