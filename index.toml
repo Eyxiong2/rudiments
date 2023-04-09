@@ -940,6 +940,11 @@ hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "07440b33c32e9b1c3b84ee11ed64ffac2d321ff15cb58a869195995316974677"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-fabric.pw.toml"
 hash = "c0404b111a2fdefb3ece6aff1d268e6e22f3025711c5c3f4007da92da18724e3"
 metafile = true
@@ -1072,6 +1077,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "b76e86b5fe8996ee5fdfb543c14a77928c82b1761e3d8570a82c3013ec1036b4"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "0dba52958fd6a8f9a1118550a12e2a58badca0f5514ef82c7b29c059026a4d5f"
 metafile = true
 
 [[files]]
