@@ -849,6 +849,11 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "18a9ee805a86f5491660e70bbf61c31bf06f80caa2fe2d9d32fb00fc08f5f571"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
 metafile = true
@@ -856,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+metafile = true
+
+[[files]]
+file = "mods/ductwork.pw.toml"
+hash = "8f91574ae77691c70c5ff9da917f42f6a30378609828b8c23af19d346e78283b"
 metafile = true
 
 [[files]]

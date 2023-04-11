@@ -1,0 +1,13 @@
+name = "Ductwork"
+filename = "ductwork-0.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39cc25be83ad1db663599d153818a1c552b15430"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074675
+project-id = 594131
