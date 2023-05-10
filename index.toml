@@ -740,12 +740,12 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-core.pw.toml"
-hash = "0c71118db58b10d9f47b99eb92ef1dddcb6273ee4fcd47ae7984aae668ea3728"
+hash = "58e7f4a2fa59ce6c53d10e1b28fcb7227b5dae7d3fc6a78bcdb0e171eae86136"
 metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "2851705457ee087e789b5c5363ce35abb542e135713a343b073933125efdb7f4"
+hash = "560da771d22fd7e584bca2d110d80880666ef44f42b7422d5910bc6abe22e2f2"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+hash = "e2247eec92525ab53c6321cba8074de0e94bf49c113c1f31a779fceab132a6b4"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
-hash = "2357a427642160db017da8b5a0b27e2bbe7e816a27f8899f2640fab165b20ca9"
+hash = "58897adde1db0e44ae3165d9951a27493815e25334009ef33cedf9d0622c9e7c"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-core.pw.toml"
-hash = "f92a0d7af4886b4d663173942aad7472af92089c6f6c5e2cbc3d0daead5e67bc"
+hash = "f30354470160624ea18fa45bdd20ed63f0e41090e4740de58306727438f1b5d0"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs-fabric.pw.toml"
-hash = "c0404b111a2fdefb3ece6aff1d268e6e22f3025711c5c3f4007da92da18724e3"
+hash = "39242af9e34d795571cd974302d1e7afb80f35243e5bec8af242e9e529dec613"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "c051ec4ff1ce1c0f513d8b9a3231ac3b2dad6aa28bea8ac6e451dcdf42caf2cf"
+hash = "0fe4e410ea18c9485ef1411b4b852ae9a648ee6edfc7d2a6ce235ffaaf78cccd"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "399dd43e5177971f4bd1f201d18ab0ef6b554ae89ac96fc252b8b8d67978cd64"
+hash = "11ceb07500902f6abc5970d01884d9d3ee9ab5922b4bb902d7b9c23775529dee"
 metafile = true
 
 [[files]]
@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4ec2035b74f68cc4ae96d4d95dd4d629cbac396d29183517c49a778e8b7c490a"
+hash = "a674b3691edb8664f598244fd07d76510a8481b8be3ad9af4428ab14b405307a"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "bf29eaffe26bcf9b4f5783cbc0d351f94194a72fcb6743b42b7730d0df9f41e0"
+hash = "6d91c6c9817438fc56185597b83792909d4657bd958a74629f6e11117659be4b"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "0dba52958fd6a8f9a1118550a12e2a58badca0f5514ef82c7b29c059026a4d5f"
+hash = "8c541794c56c2519f8b4eadd0c3a2ec5541f6c7c57c0722fe3b6c357a73f101f"
 metafile = true
 
 [[files]]
@@ -1115,17 +1115,17 @@ metafile = true
 
 [[files]]
 file = "mods/savage-ender-dragon.pw.toml"
-hash = "229e5b49dd87791b526db9192517274b54c087dd7782bba77b17e32a34de02a0"
+hash = "b24c10ffc5c49767e04c80df6b999c8f3c7440db74ca56a13e8aa6345fa6e9dd"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0dcc8eb3a49ef378caebfb320623c6a6e81471592d1367506785a8a1879dc2df"
+hash = "259c08fe73b1bd39a252bd05b7fe77300c76f98a38ee2bc22befef111ce570bb"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e7bd1df79346e6c2df2b06a89caebcff0ffbdf4ad0cafb39657d153d756c3256"
+hash = "e8579ecb4f9d0aa0f43f1b70df49e3b3e846932ab4c9087b6c4b23ee47f90d86"
 metafile = true
 
 [[files]]
@@ -1145,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "3981ed56cad72b0244149c408fae89866e654ea32a80d2538adff50efe6f626a"
+hash = "980419c2b25ab932f3ccc442a33453a7f0e91e7a2bf7da4099094bf9074b30a4"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
+hash = "6df8433306f4d8fb1b0f8c0d9ee5e5d557a3fac6f5144fdb853f31842795ad78"
 metafile = true
 
 [[files]]
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "1dfbe2c85dfbc214cc7982893afa96850bcddf43b537b24f7067a05227abc092"
+hash = "115708f32db501f577bd48fce5b56cd0b4114edbfd2e38bbe4e03466a31220db"
 metafile = true
 
 [[files]]
@@ -1195,17 +1195,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2081d412c5d021f8b31c8cb30823655ddf384f777774c0af434e2a7fc6a5980a"
+hash = "03adcd6c77e91bec7d78eddb184593da6e689aad918ee8b1fb7fa39bf8471e63"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
+hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
+hash = "b52f134a96b80a850c9094a009ceecb418527901327f9c3cf0923c7c3bce1d5f"
 metafile = true
 
 [[files]]

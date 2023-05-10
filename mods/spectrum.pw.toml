@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.6.9-1.19.2-leisure_time.jar"
+filename = "spectrum-1.6.10-1.19.2-leisure_time.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77851692b02867c18d98dfbf9489d11365e6b096"
+hash = "38864b308780ca87fe6262f363fcf6c4874b12cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4451937
+file-id = 4492664
 project-id = 556967
