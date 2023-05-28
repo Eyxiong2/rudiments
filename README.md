@@ -22,7 +22,6 @@ The biggest content mods in the pack are:
 - Amethyst Imbuement
 - Botania
 - Create
-- ~~Industrial Revolution~~
 - Twilight Forest
 - Spectrum
 
