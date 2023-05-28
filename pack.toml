@@ -1,15 +1,15 @@
 name = "Rudiments"
 author = "Eyxiong"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6d4616a83e07ed90b7734db66bb6838045e3b8d952e170a49ea29fd79ac815ca"
+hash = "cbe12d61091361a9bdc557eaaaa3a0f7fef177224f272465acbb3ff851e3c709"
 
 [versions]
-fabric = "0.14.19"
+fabric = "0.14.21"
 minecraft = "1.19.2"
 
 [options]

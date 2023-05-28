@@ -481,34 +481,6 @@ file = "config/indium-renderer.properties"
 hash = "1c2f58dd31292a585e1547f21e95c3c24e51b3082e4a443ad30eed52564991f1"
 
 [[files]]
-file = "config/indrev/cables.json"
-hash = "9183a2eadef32624ee9a8ed193ac1b61d3b2ce0511f6e0c182f3a2d9bb170a83"
-
-[[files]]
-file = "config/indrev/generators.json"
-hash = "7e76e3fd7ff40190b24aa76efdea7afc315a87e426ac8d7ce0e0f42a1f4e52c6"
-
-[[files]]
-file = "config/indrev/hud.json"
-hash = "273c14e99b9b938007693c86b53cd7d697080b38705b1962cfe38104656bcf2d"
-
-[[files]]
-file = "config/indrev/machines.json"
-hash = "6fbf00f4491111f1be29b4a6dbe172aa90df35cadd5d5ce2cf350bd10e11cbe7"
-
-[[files]]
-file = "config/indrev/mining_rig_config.json"
-hash = "c9a0a12c14e6d0b9c88d9ed8aa5586ee41435408d814dbf081ae207484b1dc5b"
-
-[[files]]
-file = "config/indrev/oregen.json"
-hash = "24967e348a997f897f49757afec9ccdb4c0ae972af80e7cb20ad8a6719eed9ac"
-
-[[files]]
-file = "config/indrev/upgrades.json"
-hash = "ebbb00fcd5f6a560a60c43c86b71a49a035f154799b6135c1627f14d5f5f72b5"
-
-[[files]]
 file = "config/kleeslabs.toml"
 hash = "dd358415bf67fa2d9040ca89833068ef3d512e86727a67b613193e27b6a524c2"
 
