@@ -1,13 +1,13 @@
 name = "Amethyst Imbuement"
-filename = "amethyst_imbuement-1.19-32.jar"
+filename = "amethyst_imbuement-1.19-35.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee8773801610dd678b05eb117dcadb7226b6f853"
+hash = "0b652d112a77305c542d2edb2168f0355a1aae67"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4530609
+file-id = 4550083
 project-id = 608261

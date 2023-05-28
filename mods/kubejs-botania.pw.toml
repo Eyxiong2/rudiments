@@ -1,13 +1,13 @@
 name = "KubeJS Botania"
-filename = "kubejs_botania-1.0.4-fix2-fabric.jar"
+filename = "kubejs_botania-1.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2bf62eeb6a35d2177783bcb97581921e544acc22"
+hash = "bbbc13eeb4897225a2beb3b89a63072f81f28c65"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4420710
+file-id = 4545839
 project-id = 618511
