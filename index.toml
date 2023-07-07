@@ -776,11 +776,6 @@ hash = "3b961892fdd7fd53a9b020c9b3416876e39c96df25a1f2981361e0e5e832e626"
 metafile = true
 
 [[files]]
-file = "mods/campanion.pw.toml"
-hash = "6c743277551d075f01822089cd00d8a15f05de30e02e64ca13563bdc41ecdee3"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components.pw.toml"
 hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
